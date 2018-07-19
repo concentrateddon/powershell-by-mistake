@@ -1,2 +1,2 @@
-front-matter.txt
+front-matter.md
 1.md
