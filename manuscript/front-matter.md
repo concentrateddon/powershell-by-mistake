@@ -1,4 +1,4 @@
-{section:frontmatter; sample:true}
+{section:frontmatter, sample:true}
 # About This Book
 This is a **continually-published** book, sold only via [Leanpub](http://leanpub.com/powershell-by-mistake). Although you only pay a single, one-time price to purchase the book, you'll have access to new chapters each time they're published, long into the future. It's recommended that you permit Leanpub to notify you, via e-mail, when new chapters are posted. That way, you'll know it's time to come get the latest.
 
