@@ -6,7 +6,7 @@ There's no change-log for this book; each new "build" published on Leanpub will 
 
 {sample:true}
 # Introduction
-Human brains are funny things. At the end of the day, our brains are still wired the same way they were when we were cavemen trying to survive in the wild. Anything relevant to our immediate survival tended to "stick" in our brains, and anything not relevant tends to slip past. Tell a child, "don't touch that hot pot on the stove!" all you want to, they're still likely to touch it—once. 
+Human brains are funny things. At the end of the day, our brains are still wired the same way they were when we were cavemen trying to survive in the wild. Anything relevant to our immediate survival tended to "stick" in our brains, and anything not relevant tends to slip past. Tell a child, "don't touch that hot pot on the stove!" all you want to, they're still likely to touch it - once. 
 
 This book is the hot pot on the stove.
 
