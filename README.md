@@ -19,4 +19,11 @@ And if you've ever wondered, "do I really know what PowerShell is all about?" th
 NOTE: This is a "continually published" book, and it is open-source. All proceeds (whatever you set the price to when you buy the book) are donated to The DevOps Collective's scholarship and other nonprofit programs.
 
 ## How to Contribute
-If you've found a problem, you're welcome to open an issue about it. Please refer to file name and line number as it appears here in GitHub, or I'll never find it ;). Or, you're welcome to fork the repo, make a fix, and submit a PR. I prefer that, really. You're also welcome to contribute your own Mistakes. Just add a new chapter file (use a filename like myname-contrib.md). I'll edit it up for you, rename the file, and include it in the book's table of contents. Much thanks for helping!
+If you've found a problem, you're welcome to fix it!
+
+1. Start by forking the repo into your own account (the Fork button is at the upper-right)
+2. Go to your GitHub account and into the forked repo (github.com/your-user-name/the-repo-name)
+3. Make whatever edits you like (the "pencil" icon when viewing a file)
+4. Submit a Pull Request to send your changes back to my repo
+
+You're also welcome to open an Issue here, but be aware that I have very limited time to maintain the manuscript, so be prepared to wait a good long while. 
